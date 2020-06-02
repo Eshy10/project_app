@@ -21,6 +21,7 @@ gem 'bootstrap-datepicker-rails'
 gem 'aws-sdk'
 gem 'stripe'
 gem "figaro"
+gem 'font-awesome-rails'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
 
